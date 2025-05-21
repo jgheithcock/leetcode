@@ -7,7 +7,7 @@ colorTheGrid.py
 count-complete-tree-nodes.py
 find_subsets_for_target.py
 shortest_path.py
-parse_leetcode.py
+parse_leetcode.js
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
